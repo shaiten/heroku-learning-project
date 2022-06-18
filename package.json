@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "heroku-learning",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "heroku learning project based on the sample project",
   "engines": {
     "node": "16.x"
   },
